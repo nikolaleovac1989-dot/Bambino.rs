@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ZAMENITI: pravi domen
+Sitemap: https://www.VAS-DOMEN.rs/sitemap.xml
